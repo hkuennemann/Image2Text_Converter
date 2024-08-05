@@ -2,8 +2,6 @@
 This module uses the pytesseract library to extract text from image files.
 '''
 
-# pip install pytesseract pillow
-
 import os
 from PIL import Image
 import pytesseract
